@@ -5,5 +5,12 @@ HI BUDDY 👻<BR>
 🔰 I AM ASLO HAVING SOME A CHANNEL ON TELEGRAM :- <a href='https://t.me/team_silent_king/52'> @TEAM_SILENT_KING 🔰 </a> <BR>
 🔆YOU CAN CONTACT ME ON TELEGRAM TOO :-  <a href= 'https://t.me/ITS_NOT_ROMEO' > @ITS_NOT_ROMEO 🔆 </a> <BR>
 
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Devansh20055/&title=Profile%20Views)
+
+
+### Status 📈
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Devansh20055&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
+
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Devansh20055}/count.svg" /></p> 
