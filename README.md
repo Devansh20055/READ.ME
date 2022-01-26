@@ -11,7 +11,7 @@ HI BUDDY 👻<BR>
 
 ### Status 📈
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Devansh20055&show_icons=true&title_color=333&icon_color=333&include_all_commits=true&theme=onedark&cache_seconds=86400)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Devansh20055&show_icons=true&title_color=333&icon_color=343&include_all_commits=true&theme=onedark&cache_seconds=86400)
 
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Devansh20055}/count.svg" /></p> 
