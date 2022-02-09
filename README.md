@@ -1,5 +1,7 @@
 # READ.ME
 
+<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Devansh20055}/count.svg" /></p> 
 
 HI BUDDY 👻<BR>
 <I><B><U>MY NAME IS :- DEVANSH </I><B/></U> <BR>
@@ -16,5 +18,3 @@ HI BUDDY 👻<BR>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Devansh20055&show_icons=true&title_color=733&icon_color=393&include_all_commits=true&theme=onedark&cache_seconds=86400)
 
-<br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Devansh20055}/count.svg" /></p> 
