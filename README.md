@@ -1,5 +1,5 @@
 # READ.ME
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=HEY+BUDDY+WELCOME+MY+PROFILE!;READ+BELOW+TO KNOW+MORE)
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Devansh20055}/count.svg" /></p> 
 
