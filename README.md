@@ -1,6 +1,6 @@
 # READ.ME
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Devansh20055/&title=Profile%20Views)
+
 HI BUDDY 👻<BR>
 <I><B><U>MY NAME IS :- DEVANSH </I><B/></U> <BR>
 <I><B>I AM ALSO A STUDENT OF CLASS 11TH 🙂😅 <BR>
@@ -12,6 +12,7 @@ HI BUDDY 👻<BR>
 
 
 ### Status 📈
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Devansh20055/&title=Profile%20Views)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Devansh20055&show_icons=true&title_color=733&icon_color=393&include_all_commits=true&theme=onedark&cache_seconds=86400)
 
