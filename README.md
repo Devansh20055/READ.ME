@@ -3,7 +3,7 @@
 <br><p align="center"><b>Vɪꜱɪᴛᴏʀꜱ Cᴏᴜɴᴛ</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Devansh20055}/count.svg" /></p> 
 
-<center>
+<p align="center">
 HI BUDDY 👻<BR>
 <I><B><U>MY NAME IS :- DEVANSH </I><B/></U> <BR>
 <I><B>I AM ALSO A STUDENT OF CLASS 11TH 🙂😅 <BR>
@@ -11,7 +11,7 @@ HI BUDDY 👻<BR>
 🔆YOU CAN CONTACT ME ON TELEGRAM TOO :-  <a href= 'https://t.me/ITS_NOT_ROMEO' > @ITS_NOT_ROMEO 🔆 </a> <BR>
 🔱DON'T FORGET TO STAR MY REPO BEFOR USING 🔱  </I><B/>
 
-</center>
+</p>
 
 
 ### Status 📈
