@@ -22,8 +22,8 @@
 
 - 🔧 **Skills**: Python, HTML, CSS, JavaScript, and more.
 - 🌱 **Currently Learning**: Advanced Python and Web Development.
-- 💡 **Hobbies**: Coding, Gaming, and Designing.
-- 🌍 **Languages**: English, Hindi.
+- 💡 **Hobbies**: Coding, Gaming.
+- 🌍 **Languages**: English, Hindi , Gujrati , Marathi.
 
 ---
 
