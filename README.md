@@ -8,7 +8,7 @@
 <p align="center">
   <h2 align="center">👋 Hi there! I'm Devansh</h2>
   <p align="center">
-    🎓 A passionate student currently in 11th grade.<br>
+    🎓 A passionate student currently in 2<sup>nd</sup> Year of Engg.<br>
     🌟 Exploring new technologies and building exciting projects.<br>
     📢 Check out my <a href='https://t.me/team_silent_king/52'>Telegram Channel</a> for updates and resources.<br>
     💬 Feel free to reach out to me on Telegram: <a href='https://t.me/ITS_NOT_ROMEO'>@ITS_NOT_ROMEO</a>.<br>
